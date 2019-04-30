@@ -1,0 +1,5 @@
+GitRepositoriesView.GitDirectories=
+GitRepositoriesView.GitDirectories.relative=
+core_defaultRepositoryDir=${workspace_loc}
+core_preferredMergeStrategy=jgit-default-mergeStrategy
+eclipse.preferences.version=1
